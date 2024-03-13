@@ -3,8 +3,7 @@ title: "DMSでDocumentDBからDynamoDBへ移行するときに見つけたバグ
 emoji: "📘"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS", "DMS", "DocumentDB", "DynamoDB"]
-published: false
-publication_name: "devopslead"
+published: true
 published_at: 2023-06-16 15:00
 ---
 ## DMSでDocumentDBからDynamoDBへ移行するときに見つけたバグ?や注意点について
