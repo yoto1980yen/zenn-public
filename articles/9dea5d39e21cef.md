@@ -3,7 +3,7 @@ title: "【AWS Summit】AWS Summit Japan 2025 初めて参加しました【オ�
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS", "AWSSummit"]
-published: false
+published: true
 ---
 ## はじめに
 執筆者は AWS Summit に初参加です。オンライン参加もしたことがない初心者です。
