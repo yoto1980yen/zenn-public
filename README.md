@@ -1,5 +1,17 @@
 # Zenn CLI
 
+# Nodeを入れる方法
+以下を参考にする
+https://www.neputa-note.net/2024/04/ubuntu-nodejs-install/
+
+# mp4をgifにする方法
+zennでは3MB以上の動画を載せれない
+gifならある程度行ける
+6秒くらいならgifに変換で行ける
+例
+```bash
+ffmpeg -i ahc055.mp4 output.gif
+```
 # Zenn CLI導入方法
 ```bash
 # Node.jpを導入する
